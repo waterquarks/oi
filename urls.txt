@@ -1,0 +1,4 @@
+https://datasets.tardis.dev/v1/woo-x/derivative_ticker/2023/04/01/PERP_BTC_USDT.csv.gz
+https://datasets.tardis.dev/v1/binance-futures/derivative_ticker/2023/04/01/BTCUSDT.csv.gz
+https://datasets.tardis.dev/v1/okex-swap/derivative_ticker/2023/04/01/BTC-USDT-SWAP.csv.gz
+https://datasets.tardis.dev/v1/bybit/derivative_ticker/2023/04/01/BTCUSD.csv.gz
